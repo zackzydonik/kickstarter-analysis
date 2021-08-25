@@ -12,9 +12,13 @@ Kickstarter data has been gathered for various fundraising campaigns . These The
 
 The analysis was performed using excel. To investigate the efficiency of campaigns by launch date, a pivot table was created which provided a count of successful, failed and canceled campaigns in each month.
 
+![image_name](https://github.com/zackzydonik/kickstarter-analysis/blob/c1ab823b7a0c7c1a4be25a517e3dcfefd69d1ef5/Theater_Outcomes_vs_Launch.png)
+
 ### Analysis of Outcomes Based on Goals
 
 When looking into outcomes based on goals, the SUMIFS() function was used to evalute goal ranges from 1000 to 50000 in 50000 increments. A line chart was used to display the percentage that were successful, failed or canceled based on the goal range.
+
+![image_name](https://github.com/zackzydonik/kickstarter-analysis/blob/c1ab823b7a0c7c1a4be25a517e3dcfefd69d1ef5/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
